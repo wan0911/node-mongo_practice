@@ -1,2 +1,2 @@
 # node-mongo_practice
-codding apple moongo db &amp; node.js
+코딩애플 moongo db &amp; node.js
